@@ -1,1 +1,4 @@
-# simple-proxy
+# Run
+```
+node index.js
+```
